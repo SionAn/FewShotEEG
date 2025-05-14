@@ -1,5 +1,5 @@
 # SA-RelationNet & DA-RelationNet
-The implementations of the two papers are as follows:
+The implementations of below two papers:
 * ["Few-Shot Relation Learning with Attention for EEG-based Motor Imagery Classification, IROS 2020"](https://ieeexplore.ieee.org/abstract/document/9340933) <br> 
 * ["Dual attention relation network with fine-tuning for few-shot EEG motor imagery classification, TNNLS"](https://ieeexplore.ieee.org/abstract/document/10167679) <br>
 
